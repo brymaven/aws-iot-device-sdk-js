@@ -1,4 +1,5 @@
 {
+  "//": "Updated mqtt dependency version. (author: Bryant Nguyen)",
   "name": "aws-iot-device-sdk",
   "description": "AWS IoT Node.js SDK for Embedded Devices",
   "version": "2.0.1",
